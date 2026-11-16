@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá! Eu sou José Etelvino de Medeiros Neto
 
-<!--
-**EtelvinoDev/EtelvinoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor em formação | Estudante de Ciência da Computação
 
-Here are some ideas to get you started:
+🎓 **Universidade Estadual da Paraíba (UEPB)** — 4º período.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de programação, apaixonado por tecnologia e pelo desenvolvimento de soluções computacionais.
+
+Atualmente, estou aprimorando meus conhecimentos em programação, desenvolvimento de software e banco de dados, buscando transformar ideias em projetos e soluções reais.
+
+Tenho interesse especial em **Back-end, Ciência de Dados e Desenvolvimento de Software**.
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+### 💻 Linguagens de programação
+
+### 🌐 Desenvolvimento Web
+
+### 🗄️ Banco de Dados
+
+
+## 🚀 Projetos
+
+### ⚖️ Sistema de Gerenciamento e Protocolagem de Processos Judiciais
+
+Projeto em desenvolvimento voltado à organização, gerenciamento e protocolagem de processos judiciais.
+
+### 📚 Projetos Acadêmicos
+
+Desenvolvimento de projetos durante a graduação, envolvendo lógica de programação, orientação a objetos, desenvolvimento de software e banco de dados.
+
+---
+
+## 🎯 Áreas de interesse
+
+- ⚙️ Desenvolvimento Back-end
+- 📊 Ciência de Dados
+- 🗄️ Banco de Dados e SQL
+- 💻 Engenharia e Desenvolvimento de Software
+- 🧠 Algoritmos e Estruturas de Dados
+
+---
+
+<p align="center">
+  <i>"Transformando conhecimento em código e ideias em soluções."</i>
+</p>
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
